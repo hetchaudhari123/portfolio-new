@@ -460,15 +460,18 @@ a{
   #project2{
     margin-left:120px;
     /* background-image: url(./images/userAsset/weatherApp.png); */
-    background-image: url(./images/projects/Tube-Metrics.png);
+    /* background-image: url(./images/projects/Tube-Metrics.png); */
+    background-image: url(./images/projects/dav.png);
   }
   #project3{
     /* background-image: url(./images/userAsset/razorpay.png); */
-    background-image: url(./images/projects/dav.png);
+    background-image: url(./images/projects/image.png);
   }
   #project4{
     margin-left:120px;
-    background-image: url(./images/projects/Project4.png);
+    /* background-image: url(./images/projects/Project4.png); */
+    background-image: url(./images/projects/Tube-Metrics.png);
+
   }
 
   @media (max-width:1300px) {
