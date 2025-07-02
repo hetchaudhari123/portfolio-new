@@ -442,12 +442,6 @@ a{
     font-size:35px;
     transition:all 0.4s;
   }
-  .icon-black{
-    cursor:pointer;
-    /* color:white; */
-    font-size:35px;
-    transition:all 0.4s;
-  }
 
   .icon:hover{
     color:var(--bgOrange);
