@@ -15,19 +15,19 @@ A modern, responsive portfolio website showcasing my journey as a Computer Scien
 
 ### 🏠 Homepage
 
-![Homepage](https://claude.ai/readme-assets/homepage.png)
+![Homepage](/readme-assets/homepage.png)
 
 ### 🏆 Competitive Programming
 
-![Competitive Programming](https://claude.ai/readme-assets/competitive-programming.png)
+![Competitive Programming](/readme-assets/competitive-programming.png)
 
 ### 💼 Projects Showcase
 
-![Projects](https://claude.ai/readme-assets/projects.png)
+![Projects](/readme-assets/projects.png)
 
 ### 🛠️ Tech Stack
 
-![Tech Stack](https://claude.ai/readme-assets/tech-stack.png)
+![Tech Stack](/readme-assets/tech-stack.png)
 
 ----------
 
